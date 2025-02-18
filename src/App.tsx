@@ -8,7 +8,7 @@ function App() {
     <>
       <div className="flex flex-col h-screen">
         <div className="flex justify-between items-center p-12">
-          <img src="/src/assets/PG.png" alt="PG. Logo" />
+          <img src="/PG.png" alt="PG. Logo" />
           <div className="flex space-x-7">
             <p>HOME</p>
             <p>ABOUT</p>
@@ -32,13 +32,13 @@ function App() {
                   boundaries of her skills.
                 </p>
                 <div className="flex gap-6">
-                  <a href="https://discord.gg/kAUgG7uU"><img src="/src/assets/Discord.png" alt="Discord Logo" /></a>
-                  <a href="https://www.linkedin.com/in/pornnapat-poonpolsub/"><img src="/src/assets/Linkedin.png" alt="Linkedin Logo" /></a>
-                  <a href="https://github.com/penguinnoiii"><img src="/src/assets/Github.png" alt="Github Logo" /></a>
-                  <a href="https://www.instagram.com/pnst_pt/"><img src="/src/assets/Instagram.png" alt="Instagram Logo" /></a>
+                  <a href="https://discord.gg/kAUgG7uU"><img src="/Discord.png" alt="Discord Logo" /></a>
+                  <a href="https://www.linkedin.com/in/pornnapat-poonpolsub/"><img src="/Linkedin.png" alt="Linkedin Logo" /></a>
+                  <a href="https://github.com/penguinnoiii"><img src="/Github.png" alt="Github Logo" /></a>
+                  <a href="https://www.instagram.com/pnst_pt/"><img src="/Instagram.png" alt="Instagram Logo" /></a>
                 </div>
               </div>
-              <img src="/src/assets/image 1.png" alt="It's me!!!" />
+              <img src="/image 1.png" alt="It's me!!!" />
             </div>
           </div>
         </div>
