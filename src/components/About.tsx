@@ -4,7 +4,7 @@ export default function About() {
     <>
       <div id="about" className="flex flex-col h-screen gap-12 justify-center items-center">
         <div className="flex flex-col p-9 gap-7 max-md:max-w-xl md:max-w-4xl md:p-10 lg:max-w-[70rem]">
-            <h1 className="text-4xl drop-shadow-lg font-semibold lg:text-6xl">Hello!!!</h1>
+            <h1 className="text-4xl font-semibold lg:text-6xl">Hello!!!</h1>
             <div className="flex flex-col gap-5 lg:text-[1.2rem]">
                 <p>
                   I have been fascinated by coding since I was a kid, and my passion led

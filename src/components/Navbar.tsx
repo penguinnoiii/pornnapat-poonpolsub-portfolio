@@ -13,8 +13,8 @@ export default function Navbar() {
 
   return (
     <>
-      <div className="fixed top-0 w-screen  bg-white">
-        <div className="flex justify-between items-center px-8 py-10 md:p-12">
+      <div className="fixed top-0 w-screen bg-white">
+        <div className="flex justify-between items-center px-8 py-7 md:p-12">
           <img className="max-w-20" src="/PG.png" alt="PG. Logo" />
           <img
             onClick={handleMenu}

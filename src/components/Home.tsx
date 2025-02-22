@@ -1,9 +1,7 @@
 export default function Home() {
   return (
     <>
-      <div id="home" className="flex flex-col h-screen justify-center items-center">
-        {" "}
-        v
+      <div id="home" className="flex flex-col h-screen min-h-[900px] justify-center items-center">
         <div className="flex flex-col items-center h-full gap-12 md:justify-center">
           <div className="flex flex-col justify-center items-start gap-6 md:w-screen md:p-10 lg:max-w-[90rem]">
             <img
