@@ -37,7 +37,7 @@ export default function Navbar() {
               <a href="#skills" onClick={closeMenu}>SKILLS</a>
             </p>
             <p>
-              <a href="#experience" onClick={closeMenu}>EXPERIENCE</a>
+              <a href="#project" onClick={closeMenu}>PROJECT</a>
             </p>
             <p>
               <a href="#contact" onClick={closeMenu}>CONTACT</a>
