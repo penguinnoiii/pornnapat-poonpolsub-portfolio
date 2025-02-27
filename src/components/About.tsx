@@ -2,7 +2,7 @@ export default function About() {
     
   return (
     <>
-      <div id="about" className="flex flex-col h-screen gap-12 justify-center items-center">
+      <div id="about" className="flex flex-col h-screen gap-12 justify-center items-center max-md:mt-20">
         <div className="flex flex-col p-9 gap-7 max-md:max-w-xl md:max-w-4xl md:p-15 lg:max-w-[90rem]">
             <h1 className="text-4xl font-semibold lg:text-6xl">Hello!!!</h1>
             <div className="flex flex-col gap-5 lg:text-[1.2rem]">

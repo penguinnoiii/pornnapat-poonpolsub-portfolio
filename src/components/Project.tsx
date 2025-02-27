@@ -3,19 +3,19 @@ export default function Project() {
     <>
       <div
         id="project"
-        className="flex flex-col h-screen justify-center items-center"
+        className="flex flex-col h-screen justify-center items-center max-md:mt-32"
       >
-        <div className="container mx-auto flex flex-col justify-center items-center md:gap-10">
+        <div className="flex flex-col justify-center items-center md:gap-10">
           <h1 className="text-5xl font-semibold lg:text-7xl">Project</h1>
-          <div className="flex flex-col md:flex-row gap-10 max-w-[500px] p-10 [&>div]:[&>img]:w-1/2 [&>div]:bg-[#EDEDED]  [&>div]:rounded-md [&>div]:p-5 [&>div]:shadow-lg md:min-w-[55rem] md:h-[30rem] md:[&>div]:[&>img]:w-full lg:min-w-[1280px] lg:min-h-[40rem]">
-            <div className="flex justify-normal gap-6 items-center md:flex-col">
+          <div className="flex flex-col md:flex-row gap-10 p-10 w-full lg:max-w-7xl lg:mx-auto">
+            <div className="bg-[#EDEDED] p-5 rounded-md shadow-lg flex justify-normal gap-6 items-center md:flex-col">
               <img
-                className="md:hidden"
+                className="md:hidden w-1/2"
                 src="/Dev Finder Mobile.png"
                 alt="Dev Finder Picture"
               />
               <img
-                className="hidden md:flex"
+                className="hidden md:flex md:w-full"
                 src="/Dev Finder.png"
                 alt="Dev Finder"
               />
@@ -29,14 +29,14 @@ export default function Project() {
                 </div>
               </div>
             </div>
-            <div className="flex justify-normal gap-6 items-center md:flex-col">
+            <div className="bg-[#EDEDED] p-5 rounded-md shadow-lg flex justify-normal gap-6 items-center md:flex-col">
               <img
-                className="md:hidden"
+                className="md:hidden w-1/2"
                 src="/Contact Form Mobile.png"
                 alt="Contact Form Picture"
               />
               <img
-                className="hidden md:flex"
+                className="hidden md:flex md:w-full"
                 src="/Contact Form.png"
                 alt="Contact Form"
               />
@@ -49,14 +49,14 @@ export default function Project() {
                 </div>
               </div>
             </div>
-            <div className="flex justify-normal gap-6 items-center md:flex-col">
+            <div className="bg-[#EDEDED] p-5 rounded-md shadow-lg flex justify-normal gap-6 items-center md:flex-col">
               <img
-                className="md:hidden"
+                className="md:hidden w-1/2"
                 src="/Blackjack Game Mobile.png"
                 alt="Blackjack Game Picture"
               />
               <img
-                className="hidden md:flex"
+                className="hidden md:flex md:w-full"
                 src="/BlackJack Game.png"
                 alt="Blackjack Game"
               />
