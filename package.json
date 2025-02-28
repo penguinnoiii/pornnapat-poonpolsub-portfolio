@@ -10,10 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
     "@formspree/react": "^2.5.3",
+    "@mui/material": "^6.4.6",
     "@tailwindcss/vite": "^4.0.6",
     "animate.css": "^4.1.1",
     "aos": "^2.3.4",
+    "framer-motion": "^12.4.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.2.0",

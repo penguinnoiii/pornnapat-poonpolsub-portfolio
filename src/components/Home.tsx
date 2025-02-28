@@ -6,7 +6,7 @@ export default function Home() {
           <div className="flex flex-col justify-center items-start gap-6 md:w-screen md:p-10 lg:max-w-[90rem]">
             <img
               
-              className="md:hidden mx-10 mt-40"
+              className="animate__heartBeat md:hidden mx-10 mt-40"
               src="/PORNNAPAT POONPOLSUB.png"
               alt="PORNNAPAT POONPOLSUB"
             />
